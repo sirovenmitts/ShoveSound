@@ -1,0 +1,26 @@
+{
+  "name": "shove-sound",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ShoveSound.js",
+  "bin": {
+    "ShoveSound": "ShoveSound.bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "accum": "^0.3.7",
+    "base64-stream": "^0.1.3",
+    "chalk": "^1.1.3",
+    "debug": "^2.6.1",
+    "multimeter": "^0.1.1",
+    "objzip": "^1.0.0",
+    "progress-stream": "^1.2.0",
+    "sox-stream": "^2.0.0",
+    "yargs": "^6.6.0"
+  }
+}
